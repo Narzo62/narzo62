@@ -10,7 +10,7 @@
 
 </div>
 
-## About me
+## 👋 About me
 
 ```javascript
 const narzo = {
@@ -30,7 +30,7 @@ const narzo = {
 };
 ```
 
-## Tech stack
+## 🛠️ Tech stack
 
 <table width="100%">
 <tr>
@@ -70,7 +70,7 @@ const narzo = {
 </tr>
 </table>
 
-## What I build
+## 🚀 What I build
 
 <table width="100%">
 
@@ -101,7 +101,7 @@ const narzo = {
 
 </table>
 
-## Contact
+## 📬 Contact
 
 <div align="center">
 

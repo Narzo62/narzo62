@@ -70,17 +70,6 @@ const narzo = {
 </tr>
 </table>
 
-## GitHub activity
-
-<div align="center">
-
-<img width="49%" src="./profile/stats.svg"/>
-<img width="49%" src="./profile/top-langs.svg"/>
-
-</div>
-
-<sub>Statistics include my private repositories. Private repository names and source code are not displayed.</sub>
-
 ## What I build
 
 <table width="100%">
